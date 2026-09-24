@@ -2,6 +2,9 @@
 
 Cardápio digital desenvolvido em grupo para uma confeitaria. O site apresenta a marca, os produtos disponíveis e páginas individuais com descrição, tamanho e cálculo de preço.
 
+![Uploading image.png…]()
+
+
 ## Funcionalidades
 
 - Página inicial com apresentação da confeitaria e produtos em destaque.

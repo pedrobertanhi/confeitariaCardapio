@@ -2,7 +2,7 @@
 
 Cardápio digital desenvolvido em grupo para uma confeitaria. O site apresenta a marca, os produtos disponíveis e páginas individuais com descrição, tamanho e cálculo de preço.
 
-![Uploading image.png…]()
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/d5029039-fc02-4034-8353-6945024d61cf" />
 
 
 ## Funcionalidades
